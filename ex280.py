@@ -65,4 +65,4 @@ k.deposit_history()                                             #k라는 객체�
 k.withdraw(100)                                                 #출금을 100원.
 k.withdraw(200)                                                 #출금을 200원.   
 k.withdraw_history()                                            #k라는 객체의 withdraw_history를 호출.
-                                                                #100 200이 출력될것이다.
+                                                                #100 200이 출력될것이다. 
